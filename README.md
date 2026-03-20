@@ -2,6 +2,9 @@
 
 This project explores how signal processing and deep learning can be combined to analyze financial time series data and predict stock prices.
 
+### Name:ABHIRAMI S  
+### Reg no:TCR24CS003  
+
 ## Overview
 
 Financial data such as stock prices can be treated as signals that change over time.
